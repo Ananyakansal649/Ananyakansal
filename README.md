@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Anandsahab/Anandsahab/main/header.png)
+![Ananya Kansal AI/ML Header](https://raw.githubusercontent.com/Ananyakansal649/Ananyakansal/main/github%20header.png)
 
 <h1 align="center">Hi 👋, I'm Ananya Kansal</h1>
 
